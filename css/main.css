@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'IBM Plex Sans', Helvetica, Arial, sans-serif;
+  padding: 5%;
+  color: #222;
+  background-color: #191c21;
+  font-size: 0.96em;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+body, a {
+  color: #bdcce5;
+}
+
+a {
+  border-bottom: 1px solid #ffffff4d;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #8bffcb;
+}
+
+h2 {
+  color: #7d9fff;
+}
+
+#name {
+  margin: 0;
+}

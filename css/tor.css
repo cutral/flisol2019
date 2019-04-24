@@ -1,0 +1,35 @@
+html,body {
+    // font-family: 'Open Sans', serif;
+    background-color: hsl(0, 0%, 93%);
+}
+.hero.is-info {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    );
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.hero .subtitle {
+  padding: 3rem 0;
+  line-height: 1.5;
+}
+.footer {
+    background-color: hsl(0, 0%, 93%);
+}
+.image {
+    background-color: hsl(0, 0%, 93%);
+}
+.has-bg-img {
+  background: linear-gradient(to top, rgba(46, 49, 65, 0.7), rgba(46, 49, 65, 0.7)), url("../img/Tor.png") no-repeat center center fixed;
+  background-size:cover;
+}
+.message-body {
+    background-color: hsl(0, 0%, 93%);
+}
