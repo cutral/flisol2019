@@ -2,7 +2,7 @@
 pagetitle: FLISoL 2019 - agenda
 ---
 
-# Agenda FLISoL RÍO CUARTO 2019 (borrador)
+# Agenda FLISoL RÍO CUARTO 2019 - DEFINITIVA -
 
 ### Inicio del Festival
 - **14h**
