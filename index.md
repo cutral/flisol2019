@@ -38,11 +38,9 @@ En esta charla analizaremos cómo la problemática de lo «libre» en el *softwa
    - Pecas, herramientas editoriales: [pecas.perrotuerto.blog](pecas.perrotuerto.blog)
    - Blog: [perrotuerto.blog](perrotuerto.blog)
 
-### Minería de datos satelitales. Agricultura de precisión. Agricultura digital - Arduino. por Carlos Hernández
-- **18.30h**
+### Agricultura digital - Arduino. por Carlos Hernández
+- **18.30h** Desarrollo de un sensor portátil de variables meteorológicas y edaficas para toma de datos en tiempo real.
+Conocer el estado de la humedad edafica tiene muchas utilidades. En base a lo anterior una de las utilidades en agronomía es el conocimiento de la profundidad en donde se encuentra la humedad necesaria para la germinación de las semillas. Es por ello que en el momento de la siembra un técnico o un productor evalúa el estado de humedad del suelo a mano y en base a esto toma la decisión de la profundidad a la cual se va a colocar la semilla. El procedimiento se realiza regulando una sembradora y evaluando como trabaja mediante varias mediciones. Si bien este procedimiento es correcto en algunas ocasiones se necesita de mayor precisión para conocer que nivel de humedad edafica existe. El método tradicional exige la toma de muestras de suelo y su posterior secado para poder obtener lo que se conoce comúnmente en el ámbito agronomico como humedad gravimetrica. Hoy en día la evaluación en tiempo real también puede ser realizada por sensores de campo. Algunos de estos sensores son complicados de conseguir y también posee un costo elevado. En este sentido se intentó diseñar y evaluar un sensor de variables como la humedad edafica, la temperatura y la humedad relativa que funcione con un telefono o una bateria con conexion USB y que muestre los datos en tiempo real. Para ello mediante una placa de arduino NANO, un sensor DHT11 y un sensor YL-50 y se diseño un medidor portatil. Para su evaluacion y calibracion se midio en un experimento a campo el valor de humedad brindado por el dispositivo y tambien se tomaron muestras de suelo, que posteriormente se secaron en estufa. Los datos estimados y medidos fueron comparados obteniendo un ajuste de un R2: 0.69.
 
-### Hardware abierto en la ciencia, por Rodolfo
+### Hardware abierto en la ciencia, por Nacho Velzi y Rodolfo
 - **19h**
-
-### Nacho Velzi
-- **19.15h**
